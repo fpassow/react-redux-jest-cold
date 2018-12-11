@@ -1,4 +1,7 @@
 A minimal project including React, Redux, and Jest. 
+Originally created with create-react-app but now trimmed
+with the goal of including only what is needed for React,
+Redux, and Jest.
 
 --------------------
 
